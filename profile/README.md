@@ -6,6 +6,3 @@
 </div>
 
 Willow Studio is an AI-first team that dedicated to transforms abstract ideas into testable and shippable products. We embody the resilience of a willow: iterate fast, land gently, and refine with care to deliver tangible value.
-
-
-
